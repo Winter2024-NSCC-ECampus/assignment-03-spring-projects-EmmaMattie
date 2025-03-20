@@ -17,4 +17,4 @@ This is a simple web application that implements user authentication using **Spr
 
 ## 🔑 Login Credentials
 - **Default username:** `user`
-- **Default password:** *(Check console on first run)*
+- **Default password:** `password`
