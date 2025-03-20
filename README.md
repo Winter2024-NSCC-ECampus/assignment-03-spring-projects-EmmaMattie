@@ -1,4 +1,4 @@
-# Secure Login Web Application
+# Spring Security Web Application
 
 This is a simple web application that implements user authentication using **Spring Security and Thymeleaf**.
 
